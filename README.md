@@ -41,6 +41,11 @@ https://www.youtube.com/watch?v=E6eZtlyBRLQ
 
 https://i.postimg.cc/LXr3BmLr/output.gif
 
+[![output.gif](https://i.postimg.cc/3JPQ4GkB/output.gif)](https://postimg.cc/2VFKgVFb)
+[![output.gif](https://i.postimg.cc/VsJYJm7z/output.gif)](https://postimg.cc/8sV83QQY)
+[![output.gif](https://i.postimg.cc/3RDcHSBQ/output.gif)](https://postimg.cc/5Yb3BmTs)
+[![output.gif](https://i.postimg.cc/02ZZh1sJ/output.gif)](https://postimg.cc/GH8ksN9c)
+
 YouTube video is provided for clearer viewing.
 
 <!-- Replace this with whatever GIF tool you used! -->

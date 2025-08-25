@@ -39,6 +39,8 @@ https://www.youtube.com/watch?v=E6eZtlyBRLQ
 
 [![output.gif](https://i.postimg.cc/LXr3BmLr/output.gif)](https://postimg.cc/G8xDbwMQ)
 
+https://i.postimg.cc/LXr3BmLr/output.gif
+
 YouTube video is provided for clearer viewing.
 
 <!-- Replace this with whatever GIF tool you used! -->

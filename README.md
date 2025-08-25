@@ -53,7 +53,7 @@ GIF created with ffmpeg. Split into four because the files were too large to pre
 
 ## Notes
 
-Describe any challenges encountered while building the app or any additional context you'd like to add.
+I had a lot of difficulty embedding the gif to GitHub because of what I assume are size limitations. I had to split the gif.
 
 ## License
 

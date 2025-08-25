@@ -37,6 +37,8 @@ Here's a walkthrough of implemented required features:
 
 https://www.youtube.com/watch?v=E6eZtlyBRLQ
 
+[![389d402b389649b7af336fdab6564346.gif](https://i.postimg.cc/50F2dgzh/389d402b389649b7af336fdab6564346.gif)](https://postimg.cc/BL402xMp)
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 GIF tool here
 <!-- Recommended tools:

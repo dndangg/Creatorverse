@@ -37,10 +37,6 @@ Here's a walkthrough of implemented required features:
 
 https://www.youtube.com/watch?v=E6eZtlyBRLQ
 
-[![output.gif](https://i.postimg.cc/LXr3BmLr/output.gif)](https://postimg.cc/G8xDbwMQ)
-
-https://i.postimg.cc/LXr3BmLr/output.gif
-
 [![output.gif](https://i.postimg.cc/3JPQ4GkB/output.gif)](https://postimg.cc/2VFKgVFb)
 [![output.gif](https://i.postimg.cc/VsJYJm7z/output.gif)](https://postimg.cc/8sV83QQY)
 [![output.gif](https://i.postimg.cc/3RDcHSBQ/output.gif)](https://postimg.cc/5Yb3BmTs)
@@ -49,7 +45,7 @@ https://i.postimg.cc/LXr3BmLr/output.gif
 YouTube video is provided for clearer viewing.
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ffmpeg.
+GIF created with ffmpeg. Split into four because the files were too large to preview on GitHub.
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows

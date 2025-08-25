@@ -39,8 +39,10 @@ https://www.youtube.com/watch?v=E6eZtlyBRLQ
 
 [![389d402b389649b7af336fdab6564346.gif](https://i.postimg.cc/50F2dgzh/389d402b389649b7af336fdab6564346.gif)](https://postimg.cc/BL402xMp)
 
+YouTube video is provided for clearer viewing.
+
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  👉🏿 GIF tool here
+GIF created with gifrun.
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
